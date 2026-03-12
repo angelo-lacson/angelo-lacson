@@ -41,8 +41,13 @@
 ### 🚀 Backend & Distributed Systems
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=go,python,nodejs,java,c#,ts,cpp,bash&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=go,python,nodejs,java,ts,cpp,bash&theme=dark"/>
 </p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=fastapi,django,flask,express,nestjs&theme=dark"/>
+</p>
+
 
 ### ☁️ Cloud & Infrastructure
 
@@ -53,7 +58,7 @@
 ### 🧠 Data, Streaming & ML Systems
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka,dynamodb&theme=dark"/>
 </p>
 
 - Kafka / Pulsar Streaming  
@@ -61,6 +66,18 @@
 - Event-Driven Architectures  
 - CQRS & Event Sourcing  
 - Async Processing Systems
+
+### 🔎 Observability & DevOps
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,git,github,githubactions,jenkins&theme=dark"/>
+</p>
+
+Tools & Platforms:
+- OpenTelemetry
+- ELK Stack (Elasticsearch, Logstash, Kibana)
+- Distributed tracing
+- Production monitoring & alerting
 
 ---
 
@@ -94,11 +111,8 @@
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=angelo-lacson&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelo-lacson&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=serhii-chernenko&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+  <img width="54%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=serhii-chernenko&theme=gotham&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&include_all_commits=true" />
 </p>
 
 ---
