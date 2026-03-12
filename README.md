@@ -1,73 +1,156 @@
-<!-- 💫 Ultra Wizard - GitHub README 💫 -->
+<!-- ⭐ Angelo Lacson - GitHub Profile README ⭐ -->
 
 <h1 align="center">
-  Hi, I'm <a href="https://ultrawizard.vercel.app/" target="_blank">Ultra Wizard</a>
+  👋 Hi, I'm Angelo Lacson
 </h1>
 
 <h3 align="center">
-  🚀 Fullstack Developer | 🛒 Shopify Expert | 💡 Lifelong Learner
+  🚀 Senior Backend Engineer | Distributed Systems | Go • Python • AWS
 </h3>
 
 <p align="center">
-  <em>"Code is my brush, and the web is my canvas."</em>
+  <em>Building scalable systems that power real-time data, AI platforms, and high-traffic cloud services.</em>
 </p>
-
----
-
-### 🌟 About Me
-
-- 👩🏽‍💻 I'm a **fullstack developer and Shopify expert** focused on building fast, scalable, and conversion-driven web experiences.
-- 🛠️ I craft **custom Shopify themes, sections, and apps**, handle complex app integrations, and build headless storefronts with **Next.js** and modern tooling.
-- 🧠 Comfortable across the stack: **React/Next.js, TypeScript, Tailwind CSS, Node.js/Express, REST & GraphQL APIs, and relational/NoSQL databases**.
-- 🎨 Dedicated to **clean architecture, exceptional UI/UX, and accessibility**, turning ideas into polished digital products.
-- ☕ Fueled by coffee and driven by a passion for building meaningful, scalable web solutions.
-
----
-
-### 🌈 Fullstack & Shopify Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,jquery,react,vue,angular,nextjs,svelte,redux,tailwind,sass,bootstrap,webpack,vite,threejs,graphql,svg,nodejs,ruby,php,sentry,git,github,vercel,docker,vscode,figma,express,mongodb,postgres&theme=dark" />
+  🌏 Philippines | ☁️ Cloud-Native Architect | ⚡ Performance Optimizer
 </p>
 
 ---
 
-### 📬 Connect with Me
+# 🧠 About Me
+
+💻 Senior backend engineer with **8+ years of experience** building **high-scale distributed systems and cloud platforms**.
+
+🚀 I specialize in designing **microservices architectures, real-time data pipelines, and ML infrastructure** used in production environments handling **millions of transactions and events daily**.
+
+⚡ My focus is on **performance, scalability, and reliability** — building systems that remain stable under massive load.
+
+### Highlights
+
+- ⚡ Reduced API latency **30-45%** through distributed caching & query optimization  
+- 📈 Designed event pipelines processing **50M+ updates daily**
+- ☁️ Built cloud-native systems on **AWS + Kubernetes**
+- 🤖 Developed infrastructure for **ML feature platforms and model serving**
+- 🔍 Improved observability pipelines reducing incident detection **40%**
+
+---
+
+# ⚙️ Core Tech Stack
+
+### 🚀 Backend & Distributed Systems
 
 <p align="center">
-  <a href="https://dev.to/ultrawizard/">
-    <img src="https://img.shields.io/badge/dev.to-FF6F00?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-  <a href="https://gusher.co/people/ultrawizard">
-    <img src="https://img.shields.io/badge/gusher.co-AF6FA0?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
+<img src="https://skillicons.dev/icons?i=go,python,nodejs,ts,cpp,bash&theme=dark"/>
 </p>
 
-📩 **Got feedback or collaboration ideas?**  
-Feel free to email me at [ultra.wizard@hotmail.com](mailto:ultra.wizard@hotmail.com)
-
----
-
-### 📊 GitHub Insights
+### ☁️ Cloud & Infrastructure
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=serhii-chernenko&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-  <img width="54%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=serhii-chernenko&theme=gotham&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&include_all_commits=true" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,nginx&theme=dark"/>
 </p>
 
----
-
-### 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=serhii-chernenko&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
-
----
-
-### ✨ Fun Zone
-
-> 🪩 Pronouns: _me/myself_  
-> 🎧 Currently vibing to: _Lo-fi & game soundtracks_  
-> 💫 Motto: _Make it beautiful. Make it yours._
+### 🧠 Data, Streaming & ML Systems
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka&theme=dark"/>
 </p>
+
+- Kafka / Pulsar Streaming  
+- Feature Stores & ML Pipelines  
+- Event-Driven Architectures  
+- CQRS & Event Sourcing  
+- Async Processing Systems
+
+---
+
+# 🏗️ Engineering Expertise
+
+### ⚡ Distributed Systems
+
+- Microservices & Event-Driven Systems
+- High-Throughput API Platforms
+- Async Processing & Streaming Pipelines
+- Domain-Driven Design (DDD)
+- CQRS & Event Sourcing
+
+### ☁️ Cloud Engineering
+
+- AWS (EKS, ECS, Lambda, S3, DynamoDB, RDS)
+- Infrastructure as Code (Terraform)
+- Kubernetes Production Clusters
+- CI/CD Pipelines (GitHub Actions, Jenkins)
+
+### 🔎 Observability & Reliability
+
+- OpenTelemetry
+- Prometheus + Grafana
+- ELK Stack
+- Distributed Tracing
+- Incident Response
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=angelo-lacson&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelo-lacson&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=angelo-lacson&theme=react-dark&hide_border=true&area=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=angelo-lacson&theme=darkhub&no-frame=true&margin-w=5"/>
+</p>
+
+---
+
+# 📬 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/angelo-lacson-81808b3b6">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:angelo.lacson.work0407@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# ⚡ Fun Zone
+
+💡 Motto: **Build systems that scale.**
+
+☕ Powered by **coffee and distributed systems debugging**
+
+🧠 Always learning about:
+
+- AI infrastructure
+- distributed systems
+- performance engineering
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+⭐ *If you like my work, consider following or starring my repositories!*
