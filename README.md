@@ -41,7 +41,7 @@
 ### 🚀 Backend & Distributed Systems
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=go,python,nodejs,java,csharp,ts,cpp,bash&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=go,python,nodejs,java,c#,ts,cpp,bash&theme=dark"/>
 </p>
 
 ### ☁️ Cloud & Infrastructure
@@ -113,10 +113,7 @@
 ---
 
 # 🏆 GitHub Trophies
-
-<p align="center">
 ![](https://github-trophies.vercel.app/?username=serhii-chernenko&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
-</p>
 
 ---
 
