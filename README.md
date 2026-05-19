@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  🚀 Senior Backend Engineer | Distributed Systems | Go • Python • AWS
+  🚀 Senior Software Engineer
 </h3>
 
 <p align="center">
